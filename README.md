@@ -1,5 +1,4 @@
 # bestrepoever
-Open the README.md in your repository
-Add some content using your favorite text editor.
-When youÅfre finished, save your changes.
+# Create Multiple Branches with Conflicting Commits
+# Make changes to the README.md file in your repository. Make a note of which lines you change.
 
